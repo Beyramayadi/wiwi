@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Coffee Land</title>
+	<link rel="coffeeicon" href="icon.jpg">
+
+</head>
+  <body>
+     <header>
+<div>   <a name="TopOfThePage"> </a>    
+          <p style="text-align:right"><a href="#home" >Home &nbsp </a>
+          <a href="#about">About &nbsp</a>
+            <a href="#work">Work &nbsp </a>
+             <a href="#resume">Resume &nbsp</a>
+             <a href="#contact">Contact </a>
+          </p>
+     </div>
+     <a name="about"> </a>  </header>
+       <main>
+    <h1><center><strong>Coffee Land</strong></center></h1>
+    <p>  Coffee Land teaches you how to make the best coffee in the world with simple ingredients all you have to do is to  </p>
+    
+  <center> <img src="https://www.cancer.org/latest-news/coffee-and-cancer-what-the-research-really-shows/_jcr_content/par/textimage/image.img.jpg/1522697270446.jpg" alt="A dog" > </center>
+  <center>  <a name="work"> </a>   <p>This is how i make my coffee<br> watch the video below</p><iframe width="560" height="315" src="https://www.youtube.com/embed/RFcuNI33Oq4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	 </center>
+    <h2>Here is the list of the tastiest coffees that i can teach you how to make</h2>
+<ul  type="square">
+	<li>Latte</li>
+	<li>Cappuccino</li>
+	<li>Americano</li> 
+  <li>Espresso</li> 
+</ul> <a name="resume"> </a>  
+    <center> <h2> Who am i ?</h2>
+    <p> My name is Beyram Ayadi and i will teach you how to make the best coffee ever</p>
+       </center>
+    <h3>My experience</h3>
+    <dl><dt><b>Coffee Maker</b></dt>
+      <dd>January 2007 – Present
+Pavilion Cafe, Los Angeles, California</dd>
+      <dt><b>Coffee Maker</b></dt>
+      <dd>March 2004 – December 2006
+Crazy Mix Cafe, Kansas City, Missouri</dd>
+      <dt><b>Responsibilities</b></dt>
+      <dd>Mixed new coffee flavors for customers to enjoy.<br>
+Handled the cash register and totaled cash after every shift.<br>
+Trained new staff in mixing coffee drinks to match the exact taste of the drinks.<br>
+Conducted research on new flavors around the world which is to be added to the menu.<br>
+Ensured that all coffee beans supply delivered are of highest quality.</dd>
+       <a name="contact"> </a>  
+    </dl>  </main>  <footer>
+    <center><h2>Subscribe to our newsletter</h2></center>
+     <form>
+      <label>Name:</label>
+      <input type="text" name="first name" placeholder="Type your name here" />
+      <br />
+
+      <label>E-mail</label>
+      <input type="text" name="email" placeholder="Type your E-mail adress" />
+      <br />
+
+      <input type="submit" value="Recieve the newsletter !" />
+    </form>
+    
+  <h5>you can visit our social media too: &nbsp
+      <a href="https://www.facebook.com/">
+        <img alt="facebook" src="https://i0.wp.com/asthaandsidharth.com/wp-content/uploads/2016/03/facebook-logo.png?w=500&ssl=1" 
+         width="50" height="50"> &nbsp  &nbsp
+      </a>
+     
+      <a href="https://twitter.com/">
+         <img alt="twitter" src="http://3.bp.blogspot.com/-NxouMmz2bOY/T8_ac97cesI/AAAAAAAAGg0/e3vY1_bdnbE/s1600/Twitter+logo+2012.png"
+         width="50" height="50">
+      </a> <br>
+      <a href="#TopOfThePage"> Let's go up Top </a></footer>
+  </body>
+</html>
