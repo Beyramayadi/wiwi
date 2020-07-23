@@ -1,0 +1,114 @@
+body {
+  font: bold 20px Verdana, Arial, sans-serif;
+  color:rgb(0, 0, 0);
+
+  background-color:rgba(172, 120, 106, 0.5); 
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  
+  
+}
+header{
+  background-image: url(https://www.roosterbrother.com/wp-content/uploads/2017/06/coffee-background-top-1.jpg);
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  padding-left: 0px;
+  height: 100%;
+  width: 100%;
+}
+#winekcv{
+  
+color: rgb(24, 7, 2);
+text-align : center;
+position: relative; bottom: 0px;
+background-color:rgba(172, 120, 106, 0.8);
+
+}
+#winekcv li{
+  display: inline-block;
+}
+a:link {
+  color:rgb(105, 43, 25);
+  text-decoration: none;
+}
+a:visited {
+  color:rgb(105, 43, 25);
+}
+a:hover {
+  color:rgb(37, 18, 13);
+  text-decoration:underline;
+}
+#montiti{ color:rgba(111, 78, 55,0.8);
+   
+   position: absolute; left: 17%; top: 0px;
+  
+    letter-spacing: 10px;
+       line-height: 60px;
+       font: 150px Helvetica, Sans-Serif;
+       font-style: bold;.
+       
+
+
+
+
+  }
+  #montiti:after {
+	content: "Coffee Land";
+	position: absolute; left: 0%; top: 5%;
+	color: rgba(160,78,55,0.5);   
+}
+#montiticache{
+  visibility: hidden;
+  font: 100px Helvetica, Sans-Serif;
+}
+footer {
+  background-color:rgba(160,78,55,0.8); 
+  
+}
+.allign{
+  display: inline-block;
+ 
+}
+div.relative{
+  position: relative;
+  right :400px;
+}
+.allign2{
+  display: inline;
+  letter-spacing: 7px;
+  word-spacing: 4px;
+ 
+}
+div.relati{
+  position: relative;
+  left:200px;
+}
+div.win{
+  background-color:rgba(160,78,55,0.5);
+}
+h2{
+  font: bold 40px Verdana, Arial, sans-serif;
+  color:rgb(68, 26, 15);
+}
+#wio{
+  visibility: hidden;
+  font: 50px Helvetica, Sans-Serif;
+
+}
+.img-hover-zoom {
+  height: 300px; /* [1.1] Set it as per your need */
+  overflow: hidden; /* [1.2] Hide the overflowing of child elements */
+}
+
+/* [2] Transition property for smooth transformation of images */
+.img-hover-zoom img {
+  transition: transform .5s ease;
+}
+
+/* [3] Finally, transforming the image when container gets hovered */
+.img-hover-zoom:hover img {
+  transform: scale(1.5);
+}
